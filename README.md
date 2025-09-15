@@ -1,6 +1,7 @@
 # Graph-Based-Route-Optimization-Engine-
 Designed and implemented a route optimization engine using Dijkstra and A*, scaling to 50k+ nodes with 45% faster query time. Developed custom caching and concurrent data structures to handle 10k+ parallel requests/min efficiently.
 
+### Read Medium Story Here: [Navigating a Million Roads Without Losing Your Mind](https://medium.com/@ra7449/navigating-a-million-roads-without-losing-your-mind-9c3d3d1e0aee)
 
 
 <img src="./data/Images/shortest_path.png" alt="Graph Visualization" width="1200">
