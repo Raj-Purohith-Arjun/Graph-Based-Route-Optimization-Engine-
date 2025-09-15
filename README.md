@@ -3,7 +3,7 @@ Designed and implemented a route optimization engine using Dijkstra and A*, scal
 
 
 
-<img src="./data/Images/output.jpg" alt="Graph Visualization" width="1200">
+<img src="./data/Images/shortest_path.png" alt="Graph Visualization" width="1200">
 
 
 This repository compares **Dijkstra's Algorithm** and **A\*** for shortest path finding on large road networks, demonstrating the use of efficient graph algorithms, query caching, and clean visualization. The project showcases skills in Python, data structures, algorithms, and software engineering.
@@ -122,7 +122,7 @@ Uses LRU cache to significantly speed up repeated shortest-path queries, especia
 ## Sample Output -from roadNet-PA
 
 
-<img src="./data/Images/shortest_path.png" alt="Output- A* VS Dijkstra's" width="800">
+<img src="./data/Images/output.jpg" alt="Output- A* VS Dijkstra's" width="800">
 
 
 ## Visualization
