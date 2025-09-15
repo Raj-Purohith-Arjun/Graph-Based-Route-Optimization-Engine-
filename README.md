@@ -3,7 +3,7 @@ Designed and implemented a route optimization engine using Dijkstra and A*, scal
 
 
 
-<img src="./data/images/shortest_path.jpg" alt="Graph Visualization" width="400">
+<img src="./data/Images/shortest_path.jpg" alt="Graph Visualization" width="400">
 
 
 This repository compares **Dijkstra's Algorithm** and **A\*** for shortest path finding on large road networks, demonstrating the use of efficient graph algorithms, query caching, and clean visualization. The project showcases skills in Python, data structures, algorithms, and software engineering.
