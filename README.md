@@ -119,6 +119,12 @@ Uses LRU cache to significantly speed up repeated shortest-path queries, especia
 
 ---
 
+## Sample Output -from roadNet-PA
+
+
+<img src="./data/Images/shortest_path.png" alt="Output- A* VS Dijkstra's" width="800">
+
+
 ## Visualization
 
 Displays linear path visualization, highlighting start and goal nodes, Dijkstra path (blue), and A* path (orange dashed) for easy comparison.
