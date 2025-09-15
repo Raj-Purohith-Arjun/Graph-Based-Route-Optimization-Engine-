@@ -99,7 +99,7 @@ route-engine/
 ## How to Run
 
 Clone the repository and set up:
-
+```
 git clone <your-github-repo>
 cd route-engine
 python -m venv .venv
@@ -108,7 +108,7 @@ source .venv/bin/activate # Mac/Linux
 Or ..venv\Scripts\activate for Windows
 pip install -r requirements.txt
 python main.py
-
+```
 
 
 ---
