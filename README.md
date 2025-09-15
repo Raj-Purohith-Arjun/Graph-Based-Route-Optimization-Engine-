@@ -1,9 +1,9 @@
 # Graph-Based-Route-Optimization-Engine-
 Designed and implemented a route optimization engine using Dijkstra and A*, scaling to 50k+ nodes with 45% faster query time. Developed custom caching and concurrent data structures to handle 10k+ parallel requests/min efficiently.
 
-# Google Route Optimization Project 🚗
 
-![Graph Visualization](./data/images/shortest_path)
+
+![Graph Visualization]<img src="./data/images/shortest_path.jpg"
 
 This repository compares **Dijkstra's Algorithm** and **A\*** for shortest path finding on large road networks, demonstrating the use of efficient graph algorithms, query caching, and clean visualization. The project showcases skills in Python, data structures, algorithms, and software engineering.
 
