@@ -51,6 +51,7 @@ A smaller sample is also included as `data/sample_edges.txt`.
 
 ## Project Structure
 
+```
 route-engine/
 ├── .gitignore
 ├── README.md
@@ -60,9 +61,10 @@ route-engine/
 ├── algo.py
 ├── cache.py
 ├── data/
-│ ├── roadNet-PA.txt
-│ ├── sample_edges.txt
-│ └── your_image.png
+│   ├── roadNet-PA.txt
+│   ├── sample_edges.txt
+│   └── your_image.png
+```
 
 
 **Modules:**
