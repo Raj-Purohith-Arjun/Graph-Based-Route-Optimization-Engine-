@@ -63,7 +63,7 @@ route-engine/
 ├── data/
 │   ├── roadNet-PA.txt
 │   ├── sample_edges.txt
-│   └── your_image.png
+│   └── shortest_path.png
 ```
 
 
